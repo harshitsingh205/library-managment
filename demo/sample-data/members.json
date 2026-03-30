@@ -1,0 +1,53 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "phone": "555-0101",
+    "membershipType": "Premium",
+    "status": "Active",
+    "address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10001",
+      "country": "USA"
+    },
+    "borrowingLimit": 10,
+    "fines": 0
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane.smith@example.com",
+    "phone": "555-0102",
+    "membershipType": "Basic",
+    "status": "Active",
+    "address": {
+      "street": "456 Oak Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipCode": "90001",
+      "country": "USA"
+    },
+    "borrowingLimit": 5,
+    "fines": 0
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Johnson",
+    "email": "robert.johnson@example.com",
+    "phone": "555-0103",
+    "membershipType": "Student",
+    "status": "Active",
+    "address": {
+      "street": "789 Elm St",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "60601",
+      "country": "USA"
+    },
+    "borrowingLimit": 7,
+    "fines": 5.00
+  }
+]

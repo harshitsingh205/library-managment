@@ -1,0 +1,67 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "isbn": "978-0-7432-7356-5",
+    "authorName": "F. Scott Fitzgerald",
+    "publisher": "Scribner",
+    "publicationYear": 1925,
+    "genre": "Fiction",
+    "description": "A classic American novel set in the Jazz Age.",
+    "totalCopies": 5,
+    "availableCopies": 3,
+    "condition": "Good",
+    "price": 12.99
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "isbn": "978-0-06-112008-4",
+    "authorName": "Harper Lee",
+    "publisher": "J.B. Lippincott",
+    "publicationYear": 1960,
+    "genre": "Fiction",
+    "description": "A gripping tale of race relations in the American South.",
+    "totalCopies": 4,
+    "availableCopies": 2,
+    "condition": "Excellent",
+    "price": 14.99
+  },
+  {
+    "title": "1984",
+    "isbn": "978-0-451-52493-2",
+    "authorName": "George Orwell",
+    "publisher": "Secker & Warburg",
+    "publicationYear": 1949,
+    "genre": "Fiction",
+    "description": "A dystopian novel depicting totalitarianism.",
+    "totalCopies": 6,
+    "availableCopies": 4,
+    "condition": "Good",
+    "price": 13.99
+  },
+  {
+    "title": "A Brief History of Time",
+    "isbn": "978-0-553-38016-3",
+    "authorName": "Stephen Hawking",
+    "publisher": "Bantam",
+    "publicationYear": 1988,
+    "genre": "Science",
+    "description": "An overview of cosmology and black holes.",
+    "totalCopies": 3,
+    "availableCopies": 2,
+    "condition": "Fair",
+    "price": 15.99
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "isbn": "978-0-316-76948-0",
+    "authorName": "J.D. Salinger",
+    "publisher": "Little, Brown",
+    "publicationYear": 1951,
+    "genre": "Fiction",
+    "description": "A coming-of-age story in New York City.",
+    "totalCopies": 3,
+    "availableCopies": 1,
+    "condition": "Good",
+    "price": 13.99
+  }
+]
